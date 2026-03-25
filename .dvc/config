@@ -1,0 +1,6 @@
+[core]
+    remote = mydvcs
+['remote "mydvc"']
+    url = ../s3
+['remote "mydvcs"']
+    url = ../s3
